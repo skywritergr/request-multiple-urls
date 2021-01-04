@@ -2,6 +2,7 @@
   "name": "@skywritergr/request-multiple-urls",
   "version": "1.0.2",
   "main": "src/index.js",
+  "repository": "https://github.com/skywritergr/request-multiple-urls",
   "license": "MIT",
   "scripts": {
     "test": "jest"
